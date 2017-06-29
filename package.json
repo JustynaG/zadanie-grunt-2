@@ -1,0 +1,24 @@
+{
+  "name": "zadanie-grunt-2",
+  "version": "1.0.0",
+  "description": "Prosta automatyzacja do konfiguracji",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustynaG/zadanie-grunt-2.git"
+  },
+  "author": "Justyna Golcew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustynaG/zadanie-grunt-2/issues"
+  },
+  "homepage": "https://github.com/JustynaG/zadanie-grunt-2#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
