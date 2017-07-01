@@ -37,7 +37,7 @@ header {
       text-decoration: none;
       text-transform: uppercase; }
       header nav li a:hover {
-        background-color: blue; }
+        background-color: #8cbb55; }
 
 .hero {
   width: 100%;
@@ -142,7 +142,7 @@ header {
   padding: 20px; }
   .container .row .col-4 .icon i {
     color: #fff;
-    background-color: blue;
+    background-color: #8cbb55;
     width: 100px;
     height: 100px;
     line-height: 100px;
@@ -157,7 +157,7 @@ header {
       cursor: pointer; }
   .container .row .col-4 .icon h2 {
     text-transform: uppercase;
-    color: blue; }
+    color: #8cbb55; }
   .container .row .col-4:hover i {
     background-color: #141739;
     color: #fff;
@@ -265,7 +265,7 @@ header {
     color: #313332; }
 
 .desc {
-  background-color: blue;
+  background-color: #8cbb55;
   position: relative;
   margin-top: 130px; }
 
@@ -296,7 +296,7 @@ header {
 .number h1 {
   font-size: 5em;
   margin: 0;
-  color: blue; }
+  color: #8cbb55; }
 
 .number h3 {
   font-size: 1,5em;
@@ -342,7 +342,7 @@ footer > .row > .col-4 i {
   border-radius: 5px;
   margin-right: 5px; }
   footer > .row > .col-4 i:hover {
-    background-color: blue;
+    background-color: #8cbb55;
     cursor: pointer; }
 
 .copyrigts {
